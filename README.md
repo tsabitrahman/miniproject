@@ -1,2 +1,0 @@
-# miniproject
-Mini Project Sederhana
